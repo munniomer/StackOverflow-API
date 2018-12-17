@@ -4,10 +4,8 @@ StackOverflow-lite is a platform where people can ask questions and provide answ
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Build Status](https://travis-ci.com/munniomer/StackOverflow-API.svg?branch=ft-user-registration-162669311)](https://travis-ci.com/munniomer/StackOverflow-API)
-[![Coverage Status](https://coveralls.io/repos/github/munniomer/StackOverflow-API/badge.svg?branch=ft-user-registration-162669311)](https://coveralls.io/github/munniomer/StackOverflow-API?branch=ft-user-registration-162669311)
-
-
+[![Build Status](https://travis-ci.com/munniomer/StackOverflow-API.svg?branch=develop)](https://travis-ci.com/munniomer/StackOverflow-API)
+[![Coverage Status](https://coveralls.io/repos/github/munniomer/StackOverflow-API/badge.svg?branch=bg-fix-app-structure-162694259)](https://coveralls.io/github/munniomer/StackOverflow-API?branch=bg-fix-app-structure-162694259)
 ## The required API Endpoints that enable one:
  1. Register a user
  2. Login a user.
