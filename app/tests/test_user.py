@@ -1,5 +1,5 @@
 """Test user module"""
-from tests.basetest import BaseTest
+from app.tests.basetest import BaseTest
 
 
 class TestUSer(BaseTest):
