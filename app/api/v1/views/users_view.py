@@ -1,11 +1,10 @@
 """User views contains Signup Resources"""
 
 from app.api.v1.models.users_model import UserModel  # imports the user model
-from flask import Flask, request, jsonify, json
+from flask import Flask, request, jsonify
 from flask_restful import Resource
 from werkzeug.security import generate_password_hash
-from validators.validators import Validators
-
+from app.validators.validators import Validators
 
 db = UserModel()
 validate = Validators()
